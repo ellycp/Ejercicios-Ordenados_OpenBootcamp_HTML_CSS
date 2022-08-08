@@ -1,0 +1,19 @@
+.row div {
+  margin: 0.25rem;
+}
+
+.col-sm {
+  background-color: yellow;
+}
+
+.col-md {
+  background-color: blue;
+}
+
+.col-lg {
+  background-color: red;
+}
+
+.col-xl {
+  background-color: brown;
+}
